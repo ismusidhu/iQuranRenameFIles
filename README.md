@@ -1,4 +1,5 @@
-iQuranRenameFIles
+QuranRenameFiles
 =================
 
-This is simple code to rename files properly as expected by iQuraan. The files are splitted with silence detectation using mp3splt-gtk
+//Downloads aayat files files Juz wise and page wize arranged in folders
+// <juz_number>/<page_number>/<surat>_<aayat>.mp3
